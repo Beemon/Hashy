@@ -1,0 +1,9 @@
+E:\Source\W32\Hashy\Client\Hashy\Hashy\bin\Debug\Hashy.exe.config
+E:\Source\W32\Hashy\Client\Hashy\Hashy\bin\Debug\Hashy.exe
+E:\Source\W32\Hashy\Client\Hashy\Hashy\bin\Debug\Hashy.pdb
+E:\Source\W32\Hashy\Client\Hashy\Hashy\obj\Debug\Hashy.csprojResolveAssemblyReference.cache
+E:\Source\W32\Hashy\Client\Hashy\Hashy\obj\Debug\Hashy.MainForm.resources
+E:\Source\W32\Hashy\Client\Hashy\Hashy\obj\Debug\Hashy.Properties.Resources.resources
+E:\Source\W32\Hashy\Client\Hashy\Hashy\obj\Debug\Hashy.csproj.GenerateResource.Cache
+E:\Source\W32\Hashy\Client\Hashy\Hashy\obj\Debug\Hashy.exe
+E:\Source\W32\Hashy\Client\Hashy\Hashy\obj\Debug\Hashy.pdb
